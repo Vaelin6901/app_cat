@@ -1,5 +1,5 @@
-$ pip install -r streamlit-authenticator
-$ pip install -r streamlit-option-menu
+pip install -r streamlit-authenticator
+pip install -r streamlit-option-menu
 
 
 import streamlit as st
